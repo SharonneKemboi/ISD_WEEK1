@@ -8,7 +8,7 @@ My work from the first class of the **Insights Through Data** course, an introdu
 
 | File | Description |
 |---|---|
-| `<notebook-name>.ipynb` | Introductory Python notebook with the examples and my exercise answers |
+| `<W1_Introduction to Python and Jupyter.ipynb` | Introductory Python notebook with the examples and my exercise answers |
 | *(add any other files here)* | *(short description)* |
 
 ## What the notebook covers
